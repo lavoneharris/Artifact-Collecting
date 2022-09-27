@@ -13,7 +13,7 @@ Artifact collecting is gathering specific information from emails or files to wi
 <br />
 
 <h2>Types of Email Artifacts</h2>
-1. Sending Email - Where the email actually came from (even if spoofed).<br />
+1. <strong>Sending Email</strong> - Where the email actually came from (even if spoofed).<br />
 2. Subject Line - Subject of the email.<br />
 3. Recipent(s) Email Address - Identifies which mailboxes have received the email.<br />
 4. Sender Server IP & Reverse DNS - the address of the server that has sent the email. When the IP is found we could do a reverse DNS search using MCToolbox.<br />
@@ -21,7 +21,7 @@ Artifact collecting is gathering specific information from emails or files to wi
 6. Date & Time - Date and Time email was sent.<br />
 <br />
 <h2>Types of File Artifacts</h2>
-1.Attachment Name - File name and extension of potentially malicous file.<br />
+1. Attachment Name - File name and extension of potentially malicous file.<br />
 2. SHA-256 Value - The hash value of the poetnetially malicious file. To check the repuation of the file we can use online tools like VirusTotal and Talos File Repuattion.<br />
 <br />
 <h2>Types of File Artifacts</h2>
