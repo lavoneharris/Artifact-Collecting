@@ -29,3 +29,10 @@ Artifact collecting is gathering specific information from emails or files to wi
 2.  <strong>Root Domain</strong> - Not totally necessary but can help to show if the site has been created for malicious acts or if it is a compromised website.<br />
 
 <br />
+
+Email #1 
+<br />
+
+Let take a look at this email that correctly filtered to my spam folder with subject line Re: Reminder : [Actvity Report] Your account is sign in on a new device. Thursday, September 15 #974313498. Basically, the message says that there was a forced login on my amazon account (I dont have a Amazon Account Anymore) and the system has cancelled all my pending order. To fix the problem i need verify my account by going to the link below. This looks to be a credntial harvester. 
+<br />
+
