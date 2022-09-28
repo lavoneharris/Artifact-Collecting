@@ -35,4 +35,8 @@ Email #1
 
 Let take a look at this email that correctly filtered to my spam folder with subject line Re: Reminder : [Actvity Report] Your account is sign in on a new device. Thursday, September 15 #974313498. Basically, the message says that there was a forced login on my amazon account (I dont have a Amazon Account Anymore) and the system has cancelled all my pending order. To fix the problem i need verify my account by going to the link below. This looks to be a credntial harvester. 
 <br />
+First things first we go into my email cilent and I will grab the email and move to the desktop as a .eml file. We will then use a text editor to read the contents of the email file.ok
 
+Manual<br />
+
+Automatic<br />
